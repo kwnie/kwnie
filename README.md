@@ -5,9 +5,7 @@
      const kelsey = {
       pronouns: "she/her",
       interested_in: "solving problems and teamwork",
-      current_working_on: "Labs for Lambda School",
-      currently_learning: "Auth0 Framework",
-      fun_fact: "I've never had a speeding ticket"
+      current_working_on: "website for a friend for portfolio"
      }
 ```
      
